@@ -3,7 +3,7 @@
 Ollama⁠ makes it easy to get up and running with large language models locally.
 Ollama Documentation: <https://github.com/ollama/ollama/tree/main/docs>
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FTheSpaceGod%2Faddon-ollama)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmarkusza%2Faddon-ollama)
 
 ## Add-ons
 
