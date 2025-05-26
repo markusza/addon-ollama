@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: ollama-cpu
-version: 0.3.11
+version: 0.7.1
 slug: ollama-cpu
 description: "The easiest way to get up and running with large language models."
 url: "https://github.com/TheSpaceGod/addon-ollama"
